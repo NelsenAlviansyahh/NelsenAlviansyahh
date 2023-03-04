@@ -1,7 +1,11 @@
-### My Name is Nelsen 👋
-![Minion](https://octodex.github.com/images/minion.png)
-
-
+- My Name is Nelsen 👋
+- __[Umur : 19 tahun]
+- ~~NPM 2125240130~~
+- [Saya Berkuliah Di Universitas Multi Data Palembang.]
+- ![happy](https://user-images.githubusercontent.com/126873361/222892336-daaf8fac-dfcc-4414-8455-992980548e0b.png)
+-     ⚡ Fun fact:Learning coding is the most fun ! 💃🕺
+-     Languages :
+- ![python](https://user-images.githubusercontent.com/126873361/222894272-6fc75b2b-b014-46fd-ae3a-b658f6ed3195.svg) 
 
 
 <!--
